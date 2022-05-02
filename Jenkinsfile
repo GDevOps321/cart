@@ -32,6 +32,7 @@
                  sh '''
                     curl -f -v -u admin:admin --upload-file cart.zip http://172.31.20.130:8081/repository/cart/cart.zip
                  '''
+
               }
            }
 
